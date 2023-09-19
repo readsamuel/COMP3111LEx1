@@ -1,1 +1,1 @@
-![](/Users/samread/IdeaProjects/COMP3111LEx1/Lab1Capture.png)
+![](/Users/samread/IdeaProjects/COMP3111LEx1/src/main/java/Lab1/Lab1Capture.png)
