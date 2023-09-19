@@ -1,1 +1,1 @@
-![](/COMP3111LEx1/src/main/java/Lab1/Lab1Capture.png)
+![ScreenShot](Lab1Capture.png)
