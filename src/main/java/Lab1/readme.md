@@ -1,1 +1,1 @@
-Time to add a photo!
+![](/Users/samread/IdeaProjects/COMP3111LEx1/Lab1Capture.png)
